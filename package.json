@@ -1,0 +1,24 @@
+{
+  "name": "glassmorphic-react",
+  "version": "0.0.1",
+  "description": "A collection of React JS components, utilising the glassmorphic CSS library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glassmorphic/react.git"
+  },
+  "keywords": [
+    "Glassmorphic-react",
+    "Glassmorphic",
+    "Glassmorphism"
+  ],
+  "author": "James Wylie <hello@glassmorphic.io> (https://glassmorphic.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glassmorphic/react/issues"
+  },
+  "homepage": "https://github.com/glassmorphic/react#readme"
+}
